@@ -2,7 +2,7 @@ import mongoose from 'mongoose';
 
 export const connectDatabase = async () => {
   mongoose
-    .connect('mongodb+srv://miqky:24242424a@cluster0.fbdfh.mongodb.net/deneme')
+    .connect('')
     .then(() => {
       console.log('Database bağlantısı başarılı');
     })
