@@ -1,4 +1,4 @@
-# Event Photo Tagging Application
+# EventTagger
 
 ![App Screenshot](link_to_screenshot)
 
